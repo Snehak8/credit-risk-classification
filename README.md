@@ -6,6 +6,7 @@ The purpose of this analysis is to assess the performance of a logistic regressi
 **Results:**
 
 **Accuracy Score:** The accuracy score measures the proportion of correctly classified instances. It is an important metric but needs to be complemented by other metrics to provide a comprehensive evaluation of the model's performance.
+
 **Precision Score:** Precision is the ratio of correctly predicted positive observations to the total predicted positives. It indicates the model's ability to avoid false positives.
 
 **Summary:**
