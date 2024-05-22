@@ -3,6 +3,11 @@
 **Overview of the Analysis:**
 The purpose of this analysis is to assess the performance of a logistic regression model in predicting credit risk. The dataset used contains information about loans, with labels indicating whether a loan is healthy (0) or at high risk of default (1). We split the data into training and testing sets, built a logistic regression model using the training data, and evaluated its performance on the testing data.
 
+**Methods Used:**
+
+We utilized the LogisticRegression algorithm from scikit-learn to build a logistic regression model. This algorithm is suitable for binary classification tasks like credit risk assessment.
+Additionally, we employed techniques such as train-test split, confusion matrix, and classification report to evaluate the model's performance and interpret its results.
+
 **Results:**
 
 **Accuracy Score:** The accuracy score measures the proportion of correctly classified instances. It is an important metric but needs to be complemented by other metrics to provide a comprehensive evaluation of the model's performance.
